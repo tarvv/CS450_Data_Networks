@@ -1,5 +1,5 @@
 # Programs made for CS450 Data Networks
-6 assignments I worked on for class. Directory and filenames are written as required by my professor. Weeks 5 and 8 use provided code from class textbook (Kurose & Ross, 2017) with the sections that I modified clearly labelled. The other weeks are entirely my own work.
+Six assignments I worked on for class. Directory and filenames are written as required by my professor. Weeks 5 and 8 use provided code from class textbook (Kurose & Ross, 2017) with the sections that I modified clearly labelled. The other weeks are entirely my own work.
 
 * **Week1_Program_Code_Suggitt**  
 C++ program that mimics a common analogy for network transmission and propagation delay.
