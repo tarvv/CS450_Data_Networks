@@ -11,7 +11,7 @@ Java program that simulates a finite state machine of a server sending data over
 Python ICMP client program that will send an ICMP ping request to a provided address and watches for a reply. My added code simply works the command line interface.
 
 * **Week6_Program_Code_Suggitt**  
-Python program that creates a CRC32 checksum of a given input file or string and appends it to the hex version of the input. This was my attempt at creating my own implementation of known published C cersions (examples can be found in the comments).
+Python program that creates a CRC32 checksum of a given input file or string and appends it to the hex version of the input. This was my attempt at creating my own implementation of known published C versions (examples can be found in the comments).
 
 * **Week7_Program_Code_Suggitt**  
 Python implementation of MD5 algorithm (RFC 1321).
